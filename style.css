@@ -1,0 +1,59 @@
+body{
+    background-image: url("gokukamehameha.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+    font-family: sans-serif;
+}
+#container{
+    background : none;
+    width : 70%;
+    height: 350px;
+    text-align: center;
+    margin: 150px auto;
+    color: blue; 
+}
+
+#time{
+    font-size: 200px;
+    font-weight: bold;
+}
+
+h1{
+    color : rgb(78,21,162);
+    -webkit-text-stroke: 3px white;
+    -moz-text-stroke: 3px white;
+    font-size: 80px;
+    line-height: 90px;
+    border : none;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+#Start{
+    background-color: red;
+    color: white;
+    margin: 0;
+    font-size: 30px;
+    width: 200px;
+    outline: none;
+}
+
+
+#Stop{
+    background-color: red;
+    color: white;
+    margin: 30px;
+    margin-top: 0;
+    width: 200px;
+    font-size: 30px;
+    outline: none;
+}
+
+
+#Reset{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    width: 200px;
+    outline: none;
+}
